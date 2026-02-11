@@ -1,0 +1,341 @@
+[
+    {
+        "id": "13",
+        "name": "Stealth Cargo Joggers",
+        "slug": "stealth-cargo-joggers",
+        "price": 3499,
+        "originalPrice": 4499,
+        "category": "pants",
+        "description": "Premium men's stealth cargo joggers with water-resistant finish and ergonomic pocket placement. The ultimate urban essential.",
+        "images": [
+            "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1972&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "colors": [
+            "Black",
+            "Graphite"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": "1",
+        "name": "Classic Black Shirt",
+        "slug": "classic-black-shirt",
+        "price": 2499,
+        "originalPrice": 3499,
+        "category": "shirts",
+        "description": "A timeless black button-up shirt crafted from premium cotton. Perfect for both formal and casual occasions.",
+        "images": [
+            "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=2069&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Navy"
+        ],
+        "inStock": true,
+        "featured": true,
+        "details": [
+            "100% Organic heavy-weight cotton",
+            "Reinforced ribbed collar",
+            "Pre-shrunk for perfect fit",
+            "Sustainable sourcing"
+        ],
+        "careInstructions": [
+            "Machine wash cold",
+            "Wash inside out",
+            "Do not tumble dry"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Essential White Tee",
+        "slug": "essential-white-tee",
+        "price": 1299,
+        "originalPrice": 1799,
+        "category": "t-shirts",
+        "description": "Premium quality white t-shirt made from 100% organic cotton. A wardrobe essential for every modern man.",
+        "images": [
+            "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2080&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "White",
+            "Gray",
+            "Black"
+        ],
+        "inStock": true,
+        "featured": true,
+        "details": [
+            "100% Organic Pima cotton",
+            "Ultra-soft finish",
+            "Breathable fabric",
+            "Eco-friendly dyes"
+        ],
+        "careInstructions": [
+            "Gentle machine wash",
+            "Dry in shade",
+            "Cool iron"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Vintage Denim Jacket",
+        "slug": "vintage-denim-jacket",
+        "price": 4999,
+        "originalPrice": 6999,
+        "category": "jackets",
+        "description": "Classic blue denim jacket with a vintage wash. Features a comfortable fit and durable construction.",
+        "images": [
+            "/images/products/vintage-denim-jacket.jpg"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Blue",
+            "Black"
+        ],
+        "inStock": true,
+        "featured": true,
+        "details": [
+            "14oz Selvedge Denim",
+            "Brass buttons",
+            "Four pocket design",
+            "Internal hidden pockets"
+        ],
+        "careInstructions": [
+            "Hand wash recommended",
+            "Avoid frequent washing",
+            "Dry flat"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Minimalist Gray Hoodie",
+        "slug": "minimalist-gray-hoodie",
+        "price": 3299,
+        "originalPrice": 4299,
+        "category": "hoodies",
+        "description": "Ultra-comfortable gray hoodie with a minimalist design. Perfect for layering or wearing solo.",
+        "images": [
+            "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1974&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Gray",
+            "Black",
+            "Navy"
+        ],
+        "inStock": true,
+        "featured": true,
+        "details": [
+            "French Terry Cotton",
+            "Heavyweight construction",
+            "Double-stitched hems",
+            "Minimalist branding"
+        ],
+        "careInstructions": [
+            "Cold machine wash",
+            "Tumble dry low",
+            "Do not iron print"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Slim Fit Beige Chinos",
+        "slug": "slim-fit-beige-chinos",
+        "price": 2799,
+        "originalPrice": 3799,
+        "category": "pants",
+        "description": "Modern slim-fit chinos in versatile beige. Made from premium stretch fabric for all-day comfort.",
+        "images": [
+            "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1974&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "colors": [
+            "Beige",
+            "Navy",
+            "Olive"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": "6",
+        "name": "Premium Leather Belt",
+        "slug": "premium-leather-belt",
+        "price": 1499,
+        "originalPrice": 2199,
+        "category": "accessories",
+        "description": "Handcrafted genuine leather belt with a sleek buckle. Perfect finishing touch to any outfit.",
+        "images": [
+            "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=2070&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "colors": [
+            "Brown",
+            "Black"
+        ],
+        "inStock": true,
+        "featured": false
+    },
+    {
+        "id": "7",
+        "name": "Casual Navy Polo",
+        "slug": "casual-navy-polo",
+        "price": 1899,
+        "originalPrice": 2499,
+        "category": "shirts",
+        "description": "Classic navy polo shirt with a modern fit. Made from breathable pique cotton.",
+        "images": [
+            "https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=1974&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "Navy",
+            "White",
+            "Gray"
+        ],
+        "inStock": true,
+        "featured": false
+    },
+    {
+        "id": "8",
+        "name": "Lightweight Bomber Jacket",
+        "slug": "lightweight-bomber-jacket",
+        "price": 5499,
+        "originalPrice": 7499,
+        "category": "jackets",
+        "description": "Modern bomber jacket in premium fabric. Features ribbed cuffs and a comfortable relaxed fit.",
+        "images": [
+            "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1972&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Black",
+            "Olive"
+        ],
+        "inStock": true,
+        "featured": true
+    },
+    {
+        "id": "9",
+        "name": "Athleisure Joggers",
+        "slug": "athleisure-joggers",
+        "price": 2299,
+        "originalPrice": 3199,
+        "category": "pants",
+        "description": "Comfortable joggers perfect for both gym and casual wear. Features an adjustable waistband.",
+        "images": [
+            "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=2070&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Black",
+            "Gray",
+            "Navy"
+        ],
+        "inStock": true,
+        "featured": false
+    },
+    {
+        "id": "10",
+        "name": "Classic Watch",
+        "slug": "classic-watch",
+        "price": 8999,
+        "originalPrice": 12999,
+        "category": "accessories",
+        "description": "Elegant minimalist watch with a leather strap. Perfect for elevating any outfit.",
+        "images": [
+            "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=1998&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "One Size"
+        ],
+        "colors": [
+            "Brown Strap",
+            "Black Strap"
+        ],
+        "inStock": true,
+        "featured": false
+    },
+    {
+        "id": "11",
+        "name": "Wool Blend Overcoat",
+        "slug": "wool-blend-overcoat",
+        "price": 9999,
+        "originalPrice": 14999,
+        "category": "jackets",
+        "description": "Sophisticated wool blend overcoat for the modern gentleman. Features a tailored fit and premium lining.",
+        "images": [
+            "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1974&auto=format&fit=crop"
+        ],
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Charcoal",
+            "Camel"
+        ],
+        "inStock": true,
+        "featured": true
+    }
+]

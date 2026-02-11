@@ -5,7 +5,6 @@ import { cn } from "@/lib/utils";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { CartDrawer } from "@/components/cart/CartDrawer";
-import { SmoothScroll } from "@/components/smooth-scroll";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const syne = Syne({
@@ -32,14 +31,12 @@ export default function RootLayout({
           syne.variable
         )}
       >
-        <SmoothScroll>
-          <div className="flex min-h-screen flex-col">
-            <Header />
-            <CartDrawer />
-            <main className="flex-1">{children}</main>
-            <Footer />
-          </div>
-        </SmoothScroll>
+        <div className="flex min-h-screen flex-col">
+          <Header />
+          <CartDrawer />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </div>
       </body>
     </html>
   );

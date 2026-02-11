@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Product } from "@/lib/data/products";
+import { Product } from "@/types";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { Minus, Plus, ShoppingBag } from "lucide-react";
@@ -28,9 +28,9 @@ export function ProductInfo({ product }: ProductInfoProps) {
                 </h1>
                 <div className="mt-4 flex items-end gap-4">
                     <p className="text-2xl font-bold tracking-tight">${product.price}</p>
-                    {product.compareAtPrice && (
+                    {product.originalPrice && (
                         <p className="text-lg text-muted-foreground line-through">
-                            ${product.compareAtPrice}
+                            ${product.originalPrice}
                         </p>
                     )}
                 </div>
